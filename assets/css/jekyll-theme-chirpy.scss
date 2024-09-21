@@ -6,5 +6,7 @@
 /* append your custom style below */
 
 {%- if jekyll.environment == 'production' -%}
-  @import 'bundle';
+  
+@import 'main';
+
 {%- endif -%}
