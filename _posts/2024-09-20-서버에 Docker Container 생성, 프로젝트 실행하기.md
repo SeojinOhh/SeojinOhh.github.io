@@ -9,10 +9,6 @@ tags: [Docker, Container]
 ---
 vscode를 통해 서버에 접속한다. 패스워드 입력.
 
-```bash
-$ ssh cybermarine@192.168.0.110 -p 9777
-```
-
 ## **1. Docker 이미지 다운로드**
 ---
 원하는 [Docker](https://hub.docker.com/) Image를 `pull`하여 다운받는다.
